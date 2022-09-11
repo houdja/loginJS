@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'montserrat', 'poppins', sans-serif;
+}
+
+:root{
+    --main__color: #FDC886;
+    --bg__color: #F5F2EA;
+    --white__color: #FFFFFF;
+    --black__color: #0D0D0D;
+}
+
+body{
+    background-color: var(--bg__color);
+}
